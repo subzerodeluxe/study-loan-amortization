@@ -9,7 +9,6 @@
 
 <section>
   <h1>Wanneer ben ik klaar met terugbetalen?</h1>
-
   <Wizard />
 </section>
 
